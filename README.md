@@ -5,7 +5,7 @@ An Android App which lets user to read News from various sources at a single pla
 # Objective
 The main focus of this app is to make accessing fact-checked and unbiased news from leading global sites as simple as possible. This Android App allows users to view new publishers from a variety of sources in one convenient app.The user can sort the news by interest and location.
 
-# Task-List:
+# Tasks-List:
 - [ ] Dark Mode
 - [x] Share Button 
 - [ ] Covid Tracker 
