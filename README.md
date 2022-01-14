@@ -6,11 +6,11 @@ An Android App which lets user to read News from various sources at a single pla
 The main focus of this app is to make accessing fact-checked and unbiased news from leading global sites as simple as possible. This Android App allows users to view new publishers from a variety of sources in one convenient app.The user can sort the news by interest and location.
 
 # Task-List:
-[] Dark Mode
-[x] Share Button 
-[] Covid Tracker 
-[] Push notification
-[] Bookmarks
+- [ ] Dark Mode
+- [x] Share Button 
+- [ ] Covid Tracker 
+- [ ] Push notification
+- [ ] Bookmarks
 
 
 You can run this Android App on Appetize.io [here.](https://appetize.io/app/5qz7jkjwfjqybdpamm4g4n9560?device=nexus5&osVersion=8.1&scale=75)
