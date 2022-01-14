@@ -10,4 +10,10 @@ You can run this Android App on Appetize.io [here.](https://appetize.io/app/5qz7
 
 
 # Screenshots
+![Home](https://github.com/aummishra/News-App/blob/main/Screenshots/NewsApp1.jpg)
+![2](https://github.com/aummishra/News-App/blob/main/Screenshots/NewsApp2.jpg)
+![3](https://github.com/aummishra/News-App/blob/main/Screenshots/NewsApp3.jpg)
+![4](https://github.com/aummishra/News-App/blob/main/Screenshots/NewsApp4.jpg)
+![5](https://github.com/aummishra/News-App/blob/main/Screenshots/NewsApp5.jpg)
+![6](https://github.com/aummishra/News-App/blob/main/Screenshots/NewsApp6.jpg)
 
